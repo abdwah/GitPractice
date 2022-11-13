@@ -6,5 +6,7 @@ public class GetFirstPractice {
 		System.out.println("this is the test");
 
 	}
-
+	public static void main (String[] args) {
+		
+	}
 }
